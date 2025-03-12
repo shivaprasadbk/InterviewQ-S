@@ -2,7 +2,8 @@ Difference between Azure Functions and Containers
 Why should we use containers instead of Azure functions
 How do we decide if the Monolithic application can be converted into microservices
 Branching strategies In Git
-What are Deployment strategies in Kubernetes
+What are Deployment strategies in Kubernetes you have used
 Explain one of the issue which had solved
 Explain Azure CICD pipeline
 How do you revert back deployed code to previous version in devops?
+why containers are lightweight?
