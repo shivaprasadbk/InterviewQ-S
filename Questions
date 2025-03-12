@@ -5,3 +5,4 @@ Branching strategies In Git
 What are Deployment strategies in Kubernetes
 Explain one of the issue which had solved
 Explain Azure CICD pipeline
+How do you revert back deployed code to previous version in devops?
